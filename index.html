@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Title of the document</title>
+    <script src="./src/base.js"></script>
+    <script src="./src/parse-tree.js"></script>
+</head>
+<body>
+    <pre><script>document.write(JSON.stringify(base, null, 4));</script></pre>
+    <script>var tree = ParseTree(base);</script>
+    <pre><script>document.write(JSON.stringify(tree, null, 4));</script></pre>
+</body>
+</html>
