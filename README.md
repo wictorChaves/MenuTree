@@ -2,7 +2,7 @@
 
 # MenuTree
 
-Transform a json array in a tree json structure
+Transform a json array in a json tree structure
 
 **How to use**
 
