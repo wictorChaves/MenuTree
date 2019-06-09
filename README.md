@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/wictorChaves/MenuTree/master/img/icon.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/wictorChaves/MenuTree/master/img/icon.png"></p>
 
 # MenuTree
 
