@@ -14,7 +14,7 @@ Then use the following function, and done!
 
     var tree = ParseTree(base);
     
-#Example
+# Example
 
 Base Json
 
